@@ -16,3 +16,8 @@ donnix=HostName=FreeDeviceHub.azure-devices.net;DeviceId=15Donnix;SharedAccessKe
 jay = HostName=FreeDeviceHub.azure-devices.net;DeviceId=16jay;SharedAccessKey=TpuuJnwUqB57Vc388t7MeF09Po1JCEtHV00kO8lP2iY=
 sisca = HostName=FreeDeviceHub.azure-devices.net;DeviceId=17sis;SharedAccessKey=JVuEKpVw7E85LMzO81lompZabkvatT3GTiagtvMBqJY=
 handi = HostName=FreeDeviceHub.azure-devices.net;DeviceId=20handi;SharedAccessKey=wxRp9vPjIfUosDvYB4m3O0DITlTndHULbN1B6PTlDnY=
+
+
+IotHubConnectionString: 
+HostName=FreeDeviceHub.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=OB1dyP9UVIzjnVpV2pHgWV0L0N9OF4dT1ZOCGPLvRqI= 
+EventHubConsumerGroup: netconfGroup
